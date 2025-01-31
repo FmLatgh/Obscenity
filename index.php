@@ -270,6 +270,7 @@
             duration: 2000,
             easing: 'easeInOutQuad',
             delay: 2000 // Add delay of 2.5 seconds
+            //hi
         });
     </script>
 </body>

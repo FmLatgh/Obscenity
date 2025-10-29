@@ -8,7 +8,7 @@
     <style>
         #personal {
             position: relative;
-            top: -33%;
+            top: -17%;
             font-size: 20pt;
             text-align: center;
 
